@@ -9,7 +9,7 @@ Je suis [Votre Nom], un développeur passionné par la création de logiciels et
 
 - Python ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 - HTML ![HTML Logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png)
-- CSS ![CSS Logo](https://www.w3.org/Style/CSS/Overview.en.html)
+- CSS ![CSS Logo](https://www.w3.org/Style/CSS/logos/VDG/css3-logo-100.png)
 
 ## Environnement de développement préféré :
 
