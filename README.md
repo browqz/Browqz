@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub 👋
 
-Je suis Browqz, un développeur passionné par la création de logiciels et de solutions Web. Voici un aperçu de mes compétences et de mon parcours :
+Je suis Browqz, un développeur passionné par la création de tools et de sites Web. Voici un aperçu de mes compétences et de mon parcours :
 
 - 👨‍💻 Je suis un développeur Python, CSS, et HTML, et j'explore également le monde du C++ pour élargir mes compétences.
 - 🌐 Je parle couramment l'anglais et le français.
