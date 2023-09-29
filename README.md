@@ -1,20 +1,25 @@
 # Bienvenue sur mon profil GitHub 👋
 
-Je suis Browqz, un développeur passionné par la création de tools et de sites Web. Voici un aperçu de mes compétences et de mon parcours :
+# Salut, je suis Browqz! 👋
 
-- 👨‍💻 Je suis un développeur Python, CSS, et HTML, et j'explore également le monde du C++ pour élargir mes compétences.
-- 🌐 Je parle couramment l'anglais et le français.
+## Compétences
 
-## Mes compétences et outils :
+- Développement web avec ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) et ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- Programmation en ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Apprentissage du ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- Python ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-- HTML ![HTML Logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png)
-- CSS ![CSS Logo](https://www.w3.org/Style/CSS/logos/VDG/css3-logo-100.png)
+## OS et environnements de développement
 
-## Environnement de développement préféré :
+- Systèmes d'exploitation : ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white), ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- Débutant sur ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+- Éditeur de code préféré : ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- [Visual Studio Code](https://code.visualstudio.com/) ![VSCode Logo](https://code.visualstudio.com/assets/branding/app-icon.png)
+## Statistiques
 
-N'hésitez pas à explorer mes projets GitHub et à me contacter sur [Instagram](https://www.instagram.com/wssm.qlf/) si vous avez des questions ou souhaitez discuter de collaborations professionnelles.
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=browqz&show_icons=true&theme=dark)](https://github.com/browqz)
+
+## Contact
+
+- Instagram : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wssm.qlf)
 
 Merci d'avoir visité mon profil GitHub !
