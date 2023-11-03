@@ -1,7 +1,5 @@
 # Bienvenue sur mon profil GitHub 👋
 
-# Salut, je suis Browqz! 👋
-
 ## Compétences
 
 - Développement web avec ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) et ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,5 +19,6 @@
 ## Contact
 
 - Instagram : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wssm.qlf)
+- Discord : ![Discord](https://discord.c99.nl/widget/theme-3/281649435568504832.png)
 
 Merci d'avoir visité mon profil GitHub ! 
