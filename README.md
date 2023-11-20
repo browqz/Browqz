@@ -19,6 +19,6 @@
 ## Contact
 
 - Instagram : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wssm.qlf)
-- Discord : ![Discord]([https://discord.c99.nl/widget/theme-3/281649435568504832.png](https://api.status.gg/discord/281649435568504832)https://api.status.gg/discord/281649435568504832](https://api.status.gg/discord/281649435568504832)https://api.status.gg/discord/281649435568504832)
+- Discord : ![Discord]([https://discord.c99.nl/widget/theme-3/281649435568504832.png](https://api.status.gg/discord/281649435568504832)https://api.status.gg/discord/281649435568504832](https://api.status.gg/discord/281649435568504832)https://api.status.gg/discord/281649435568504832])
 
 Merci d'avoir visité mon profil GitHub ! 
