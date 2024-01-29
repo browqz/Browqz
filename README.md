@@ -19,6 +19,6 @@
 ## Contact
 
 - Instagram : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wssm.qlf)
-- Discord : ![Discord](<a aria-label="https://api.status.gg/discord/589632877285605386)
+- Discord : ![Discord](https://api.status.gg/discord/589632877285605386)
 
 Merci d'avoir visité mon profil GitHub ! 
